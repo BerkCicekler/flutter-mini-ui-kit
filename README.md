@@ -1,39 +1,19 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# Flutter UI Kit
+its a very small UI kit
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages).
+## Elements
+### Buttons
+  `CustomOutlinedButton`
+  `CustomButton`
+  `CustomGreyButton`
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages).
--->
+  ### Bottom sheets
+  `CustomInformationBottomSheet`
+  `CustomTextInputBottomSheet`
+  `CustomActionBottomSheet`
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
-
-## Features
-
-TODO: List what your package can do. Maybe include images, gifs, or videos.
-
-## Getting started
-
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+<img src="https://github.com/BerkCicekler/flutter-mini-ui-kit/assets/140281815/b972692c-089a-4348-9f78-be784d8aaf0c" width="350px" alt="">
+<img src="https://github.com/BerkCicekler/flutter-mini-ui-kit/assets/140281815/3c3f47e4-f602-41ba-9bca-81b1a0ac6ad5" width="350px" alt="">
+<img src="https://github.com/BerkCicekler/flutter-mini-ui-kit/assets/140281815/42e019c2-a332-4862-a549-fc79c2aa6c85" width="350px" alt="">
+<img src="https://github.com/BerkCicekler/flutter-mini-ui-kit/assets/140281815/a546008d-1dcf-4b22-8c99-d255e1d29e7f" width="350px" alt="">
+<img src="https://github.com/BerkCicekler/flutter-mini-ui-kit/assets/140281815/fb5d815c-a50c-4e57-8dbe-f61d16f8d3bb" width="350px" alt="">
