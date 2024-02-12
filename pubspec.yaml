@@ -1,0 +1,19 @@
+name: widgets
+description: "Basic UI Kit"
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ">=3.2.5 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  very_good_analysis: ^5.1.0
+
+flutter:
